@@ -1,5 +1,10 @@
 # AI Backend Integration Starter
 
+[![GitHub stars](https://img.shields.io/github/stars/maticcretic-commits/ai-backend-integration-starter?style=social)](https://github.com/maticcretic-commits/ai-backend-integration-starter/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/maticcretic-commits/ai-backend-integration-starter)](https://github.com/maticcretic-commits/ai-backend-integration-starter/commits/main)
+[![Cost: Free](https://img.shields.io/badge/cost-%E2%82%B90-brightgreen)](https://github.com/maticcretic-commits/ai-backend-integration-starter)
+
+
 A portfolio practice project: a **production-shaped Python backend template** —
 the pattern behind "$3,000 budget" AI-integration gigs (REST API, webhooks,
 AI endpoints, QA test suite, legacy interop).
